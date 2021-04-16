@@ -1,6 +1,6 @@
 ### Hello World, I'm AKASH  👋
 
- <img align="right"  src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" width="500" height="320" />
+ 
 
 
 ## I'm Web Developer!!
